@@ -125,13 +125,3 @@ images/dashboard.png
 ```
 <img width="1374" height="745" alt="image" src="https://github.com/user-attachments/assets/2532c208-2182-40fe-98e9-c600b7f27be5" />
 
-
-## 👨‍💻 Author
-
-**Rahul Nair**
-
-GitHub: https://github.com/RahulNair2004
-
----
-
-## ⭐ If you found this project useful, consider giving it a star!
